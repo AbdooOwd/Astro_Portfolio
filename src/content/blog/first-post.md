@@ -7,8 +7,8 @@ heroImage: '/imgs/first-post.jpg'
 
 # First Post guys!
 
-After trying out 465,165,214 *(not real numbers)*, I finally found 
-[**__Astro__**](https://astro.build/), a **REALLY** easy tool 
-*(+ [Netlify](https://netlify.com/))* to make, deploy sites.
+After trying out 465,165,214 frameworks/tools *(not real numbers)*, I finally found 
+[**__Astro__**](https://astro.build/), a **REALLY** easy cool GigaChad framework to make
+sites, and [Netlify](https://netlify.com/) to deploy it. Github Pages is kinda slow.
 
 I wanted an easy tool to just talk about myself + a blog, a ***portfolio*** techincally.

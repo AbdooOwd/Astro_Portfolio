@@ -2,6 +2,8 @@
 title: 'A-- Programming Language'
 description: 'My own programming language!'
 pubDate: 'Aug 23 2023'
+updatedDate: 'Sep 1 2023'
+tags: ["programming", "projects"]
 heroImage: '/imgs/amm.jpg'
 ---
 
@@ -17,6 +19,15 @@ So I recoded the Python interpreter *(Thanks ChatGPT!)* to **C++**. Because of:
     * Its speed.
     * It can compile the interpreter.
 
+## How does it work?
+So, **__A--__** works the same way in both __Python__ and __C++__ 
+*(except the Python version isn't being updated anymore)*.
+A-- works by scanning each individual character in the code's file.
 
+Why you say? Because I wanted to make a programming language all on my own
+*(I used ChatGPT to translate the Python version to C++ because I know Python more)*.
+And I didn't know anything about tokens and all. But when I realized that it might be better,
+I just was too lazy to do it. Maybe another time? Maybe it will be rewritten in Python?
+*(cuz we all know [this video]() when we want to make a programming language)*
 
 ***To Be Continued - WIP - Coming soon***

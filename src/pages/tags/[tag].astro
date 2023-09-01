@@ -18,9 +18,22 @@ const { tag } = Astro.params;
 const { posts } = Astro.props;
 const filteredPosts = posts.filter((post) => post.frontmatter.tags?.includes(tag));
 ---
+
+<style>
+    /*.post-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+    }*/
+    .post-item {
+        width: 100%;
+        height: 100vh;
+    }
+  </style>
+
 <BaseLayout pageTitle={`Tag: ${tag}`}>
   <h3>Posts tagged with {tag}</h3>
-  <ul>
-    {filteredPosts.map((post) => <BlogCard post={post}/>)}
+  <ul class="post-grid">
+    {filteredPosts.map((post) => <BlogCard class="post-item" post={post}/>)}
   </ul>
 </BaseLayout>

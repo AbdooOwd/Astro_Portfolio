@@ -63,10 +63,14 @@ const { post } = Astro.props;
         box-shadow: var(--box-shadow);
     }
     .blog_card {
+        padding: 5px 10px;
+        height: 100%;
+        width: 100%;
+    }
+    .blog_card_link{
         text-decoration: none;
         color: #1c1c1c;
         font-weight: 600;
-
         text-align: center;
         display: flex;
         flex-direction: column;
@@ -88,11 +92,14 @@ const { post } = Astro.props;
             font-size: 1.563em;
         }
     }
+    img {
+        width: 100%;
+    }
 </style>
 
 <section>
     <div class="blog_card">
-        <a href={`/blog/${post.frontmatter.url}/`} class="blog_card">
+        <a href={`/blog/${post.frontmatter.url}/`} class="blog_card_link blog_card">
             <img width={360} height={180} src={post.frontmatter.heroImage} alt="" />
             <span>{post.frontmatter.title}</span>
         </a>

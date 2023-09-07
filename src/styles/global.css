@@ -19,6 +19,10 @@
 	--bg-color: rgb(43, 44, 56);
 	--bg-color-dark: rgb(36, 37, 46);
 
+	/* White Color*/
+	--title-color: white;
+	--text-color: white;
+
 	/* Green Color */
 	/*--title-color: rgb(143, 199, 143);
 	--text-color: rgb(160, 199, 168);*/

@@ -28,6 +28,16 @@ Why you say? Because I wanted to make a programming language all on my own
 *(I used ChatGPT to translate the Python version to C++ because I know Python more)*.
 And I didn't know anything about tokens and all. But when I realized that it might be better,
 I just was too lazy to do it. Maybe another time? Maybe it will be rewritten in Python?
-*(cuz we all know [this video]() when we want to make a programming language)*
+*(cuz we all know [this video](#) when we want to make a programming language)*
 
-***To Be Continued - WIP - Coming soon***
+## How can I use it?
+To use it? Easy!
+* 1. Get the **A-- Interpreter** [here](https://github.com/AbdooOwd/AMM_lang_CPP).
+* 2. Have a **`.amm` file** to run.
+* 3. Go to **CMD** or any **terminal app** and run the following command
+`.\amm_compiler.exe <program name>.amm`
+
+It will run the program in the CMD/Terminal window.
+
+## Where can I find more?
+To learn more about this, go to the project's [Github Page](https://github.com/AbdooOwd/AMM_lang_CPP)

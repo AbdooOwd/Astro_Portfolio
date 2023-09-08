@@ -19,6 +19,8 @@
 	--bg-color: rgb(43, 44, 56);
 	--bg-color-dark: rgb(36, 37, 46);
 
+	--code-bg: rgb(38, 38, 41);
+
 	/* White Color*/
 	--title-color: white;
 	--text-color: white;
@@ -125,7 +127,7 @@ img {
 }
 code {
 	padding: 2px 5px;
-	background-color: rgb(var(--gray-light));
+	background-color: var(--code-bg);
 	border-radius: 2px;
 }
 pre {

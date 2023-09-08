@@ -17,9 +17,12 @@
 
 		
 	--bg-color: rgb(43, 44, 56);
+	--bg-color-light: rgb(99, 100, 125);
 	--bg-color-dark: rgb(36, 37, 46);
 
 	--code-bg: rgb(38, 38, 41);
+
+	--elem-text-color: rgb(214, 216, 241);
 
 	/* White Color*/
 	--title-color: white;
@@ -172,4 +175,31 @@ hr {
 	clip-path: inset(50%);
 	/* added line to stop words getting smushed together (as they go onto seperate lines and some screen readers do not understand line feeds as a space */
 	white-space: nowrap;
+}
+
+/* My Stuffy */
+input[type="text"] {
+	color: white;
+	border-radius: 5px;
+	border: none;
+	background-color: rgb(75, 77, 97);
+
+	padding: 4px 8px;
+
+}
+
+input[type="text"]::placeholder {
+	color: rgb(143, 146, 172);
+}
+
+input[type="button"], button {
+	background-color: var(--bg-color-light);
+	color: var(--elem-text-color);
+
+	padding: 4px 8px;
+
+	border: none;
+	border-radius: 8px;
+
+	cursor: pointer;
 }

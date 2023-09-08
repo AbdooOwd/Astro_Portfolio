@@ -11,6 +11,20 @@ const posts = (await getCollection('blog')).sort(
 );
 ---
 
+<script>
+	const adminButton = document.getElementById("fazbearBTN");
+	const adminText = document.getElementById("adminFazbear");
+  
+	adminButton?.addEventListener('click', function() {
+	  let adminText_value = (adminText as HTMLInputElement)?.value;
+	  if (adminText_value == "FreddyFazbear") {
+		window.location.href = "/secret";
+	  }
+	  //console.log(adminText_value);
+	});
+  </script>
+
+
 <!DOCTYPE html>
 <html lang="en">
 	<head>
@@ -106,6 +120,10 @@ const posts = (await getCollection('blog')).sort(
 				</ul>
 			</section>
 		</main>
-		<Footer />
+		<Footer>
+			<input id="adminFazbear" type="text" placeholder="Admin Password"/>
+			<input id="fazbearBTN" type="button" value="Go" />
+			<br/><br/>
+		</Footer>
 	</body>
 </html>

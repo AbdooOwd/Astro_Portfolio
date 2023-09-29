@@ -1,0 +1,28 @@
+---
+import MyBaseLayout from "../../layouts/MyBaseLayout.astro";
+---
+
+<script src="../../scripts/blogPostMaker.js" />
+
+<MyBaseLayout>
+    <p>Le Dev</p>
+    <br/>
+    <center>
+    <div class="pass">
+        <h2>Blog Editor</h2>
+        <input type="text" id="blog-password" placeholder="Type Admin's Password">
+        <button id="blog-password-button">Enter</button>
+    </div>
+    </center>
+
+    <br/><br/>
+
+    <div id="maker" style="display: none;">
+        <label for="blog-filename">Blog Post Filename</label>
+        <input type="text" id="blog-filename">
+        <textarea id="blog-content" cols="30" rows="10"></textarea>
+        <center>
+            <button id="blog-save-button">Save Blog Post</button>
+        </center>
+    </div>
+</MyBaseLayout>

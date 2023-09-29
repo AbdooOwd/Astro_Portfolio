@@ -192,14 +192,31 @@ input[type="text"]::placeholder {
 	color: rgb(143, 146, 172);
 }
 
-input[type="button"], button {
+input[type="button"], button, .button {
 	background-color: var(--bg-color-light);
 	color: var(--elem-text-color);
 
-	padding: 4px 8px;
+	padding: 6px 16px;
 
 	border: none;
 	border-radius: 8px;
 
 	cursor: pointer;
+	text-decoration: none;
+	
+	transition-duration: 0.4s;
+}
+
+a .button, .button:hover {
+	color: #ffffff;
+	background-color: rgb(149, 150, 181);
+}
+
+textarea {
+	color: white;
+	border-radius: 5px;
+	border: none;
+	background-color: rgb(75, 77, 97);
+
+	padding: 4px 8px;
 }

@@ -1,4 +1,4 @@
-var fs = require('fs');
+//import { writeFile, readFile } from "fs";
 
 
 const adminButton = document.getElementById("blog-password-button");
@@ -6,7 +6,7 @@ const adminText = document.getElementById("blog-password");
 
 const blog_editor = document.getElementById("maker");
 
-const password = "takagi-san";
+const password = "takagi";
 
 adminButton?.addEventListener('click', function() {
   	let adminText_value = adminText?.value;
@@ -29,20 +29,28 @@ const leFilename = blog_filename?.value;
 const leBlogPath = "../content/blog/";
 
 function getLeData(file_path) {
-	readFile(file_path, 'utf8', (err, data) => {
+	
+	console.log("'getLeData' function is being worked on (ViteJS doesn't support 'fs'");
+	/*readFile(file_path, 'utf8', (err, data) => {
 		if (err) {
 			console.error(err);
 			return null;
 		}
 		return data;
-	});
+	});*/
 }
 
 save_button?.addEventListener('click', saveBlog);
 
+
 function saveBlog() {
-	console.log("Me Gusta");
-	console.log(
-		getLeData("./megusta.txt")
-	);
+	console.log("'saveBlog' function is being worked on (ViteJS doesn't support 'fs'");
+	/*writeFile(leBlogPath + leFilename, 'utf8', err => {
+		if (err) {
+			console.error(err);
+		}
+		else {
+			console.log("> Saved Blog File Successfully!");
+		}
+	});*/
 }

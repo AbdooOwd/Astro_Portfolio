@@ -4,6 +4,7 @@ description: 'My first post on my this blog'
 pubDate: 'Aug 23 2023'
 tags: ["blogging"]
 heroImage: '/imgs/first-post.jpg'
+url: 'first-post'
 ---
 
 # First Post guys!

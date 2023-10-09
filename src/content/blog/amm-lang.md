@@ -5,6 +5,7 @@ pubDate: 'Aug 23 2023'
 updatedDate: 'Sep 1 2023'
 tags: ["programming", "projects"]
 heroImage: '/imgs/amm.jpg'
+url: 'amm-lang'
 ---
 
 One day, for fun. I started making a **programming language**!

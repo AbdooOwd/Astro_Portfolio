@@ -3,6 +3,7 @@ title: 'Weeb Moment'
 description: 'My Weeb Moments'
 pubDate: 'Sep 08 2023'
 heroImage: '/imgs/weeb-momento.jpg'
+url: 'weeb-moment'
 ---
 
 ## I sometimes have Weeb Moments

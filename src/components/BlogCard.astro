@@ -99,7 +99,7 @@ const { post } = Astro.props;
 
 <section>
     <div class="blog_card">
-        <a href={`/blog/${post.frontmatter.url}/`} class="blog_card_link blog_card">
+        <a href={`/blog/${post.frontmatter.url}/`} id="blog_link" class="blog_card_link blog_card">
             <img width={360} height={180} src={post.frontmatter.heroImage} alt="" />
             <span>{post.frontmatter.title}</span>
         </a>

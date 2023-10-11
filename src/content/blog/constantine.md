@@ -19,6 +19,7 @@ pas de l'avoir lu.
 ##### Indexe
 * [Localisation](#localisation)
 * [Constantine en nombre](#constantine-en-nombre)
+* [L'histoire de Constantine](#lhistoire-de-constantine)
 
 #### Localisation
 
@@ -33,6 +34,10 @@ Elle est également la principale métropole de l’Est du pays et la plus grand
 
 Constantine a une superficie d'environ **231.63 km²**.
 Elle compte par ailleurs plus de **448 000 habitants**.
+
+#### L'histoire de Constantine
+
+Constantine est une ville importante dans l'histoire méditerranéenne. Originairement appelé **Cirta**, capitale de la Numidie de 300 av. J.-C. à 46 av. J.-C., elle passe ensuite sous la domination des romains. C'est de l'empereur **Constantin 1er** qu'elle tiens son nom actuel depuis l'année 313.
 
 ### Ce projet est en construction !
 

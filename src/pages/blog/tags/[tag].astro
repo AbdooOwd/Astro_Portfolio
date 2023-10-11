@@ -1,9 +1,9 @@
 ---
-import BaseLayout from '../../layouts/MyBaseLayout.astro';
-import BlogCard from '../../components/BlogCard.astro';
+import BaseLayout from '../../../layouts/MyBaseLayout.astro';
+import BlogCard from '../../../components/BlogCard.astro';
 
 export async function getStaticPaths() {
-    const allPosts = await Astro.glob('../../content/blog/*.md');
+    const allPosts = await Astro.glob('../../../content/blog/*.md');
   return [
     { params: { tag: "programming" },   props: {posts: allPosts} },
     { params: { tag: "projects" },      props: {posts: allPosts} },

@@ -23,13 +23,17 @@ pas de l'avoir lu.
 #### Localisation
 
 Constantine est une wilaya/région d'Algérie qui se situe au Nord-Est du pays.
-Elle est entourée d'autres régions comme: *région 1*, *région 2*... *etc*
+Ellse se situe à **431 km** à l'est de la capitale *Alger*.
+Cette wilaya est entourée d'autres régions comme: *Batna (à 99 km)*, *Skikda (à 63 km)*, *Annaba (à 119 km)*, et quelques autres villes
+et régions. Tout comme elle est entourée de terres agricoles fertiles.
+C'est une ville charnière entre le *Tell* et les hautes plaines.
+Elle est également la principale métropole de l’Est du pays et la plus grande métropole intérieure d'Algérie.
 
 #### Constantine en nombre
 
-Constantine a une superficie éstimée a environ **231.63km²**.
+Constantine a une superficie d'environ **231.63 km²**.
 Elle compte par ailleurs plus de **448 000 habitants**.
 
 ### Ce projet est en construction !
 
-> Réalisé par: *@AbdooOwd, Abdoo, Akram, Chahine, Younes*
+> Réalisé par : *Meqla, Madas, Kerkouma, Abboudi, Babicha*

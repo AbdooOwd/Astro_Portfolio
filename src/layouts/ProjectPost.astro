@@ -1,0 +1,25 @@
+---
+import MyBaseLayout from "./MyBaseLayout.astro";
+
+const { postp } = Astro.props;
+---
+
+<MyBaseLayout pageTitle={postp.title}>
+
+    <style>
+        .project-title {
+            font-size: 25px;
+        }
+    </style>
+
+    <center>
+        <img src={ postp.heroImage } alt="leImg">
+    </center>
+        <br/><br/>
+        <p class="project-title"><b> - Name: </b> { postp.title }</p>
+        <p class="project-title"><b> - Description: </b>{ postp.description }</p>
+        <p class="project-title"><b> - By: </b> AbdooOwd <i>(duh)</i> </p>
+        <hr />
+    <br/><br/>
+    <slot />
+</MyBaseLayout>

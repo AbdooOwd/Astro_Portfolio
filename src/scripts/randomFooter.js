@@ -13,7 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
       "I'm a smart student, but a dumb person",
       "Algeria, the knock-offs counrty",
       "Algeria is cool, but LAW isn't applied",
-      "More random text!"
+      "More random text!",
+      "Hello World, we all did it",
+      "Watched \"The Social Network\", 9/10"
     ];
     const randomIndex = Math.floor(Math.random() * randomChoices.length);
     pElement.textContent = randomChoices[randomIndex];

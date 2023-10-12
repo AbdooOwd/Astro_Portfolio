@@ -196,6 +196,8 @@ input[type="button"], button, .button {
 	background-color: var(--bg-color-light);
 	color: var(--elem-text-color);
 
+	font-family: 'Atkinson';
+
 	padding: 6px 16px;
 
 	border: none;

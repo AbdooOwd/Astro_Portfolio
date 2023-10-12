@@ -7,19 +7,28 @@ import Pusher from "../../components/fun/Pusher.astro";
 import MipMip from "../../components/fun/MipMip.astro";
 ---
 
+<script src="../../components/fun/fun.js"></script>
+
+<style>
+    #leHead {
+        transition-duration: 0.4s;
+    }
+</style>
+
 <MyBaseLayout pageTitle="Fun Page | AbdooOwd's Portfolio">
-    <h2>You're here?!</h2>
-    <p>
-        Hey! This is supposed to be my secret place!
-        This is where I test things, you can call this place
-        "my playground". I put funny stuff, you can stay here.
-    </p>
-
-    <HoverColor> Yo Bro </HoverColor>
-    <br/>
-    <Pusher />
-    <br />
-    
-    <MipMip/>
-
+    <div id="leHead">
+        <h2>You're here?!</h2>
+        <p>
+            Hey! This is supposed to be my secret place!
+            This is where I test things, you can call this place
+            "my playground". I put funny stuff, you can stay here.
+        </p>
+        <HoverColor> Yo Bro </HoverColor>
+        <br/>
+        <Pusher />
+        <br />
+        <MipMip/>
+        <br />
+        <button style="font-size: 26px; padding: 5px 20px;" id="rick-roll">Barrel Roll</button>
+    </div>
 </MyBaseLayout>

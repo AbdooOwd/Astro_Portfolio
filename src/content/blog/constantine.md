@@ -35,8 +35,6 @@ Parcourant la vieille ville, vous ressentirez ces époques en admirant sa beaut�
 
 Suspendue entre ciel et terre, Constantine, aussi appelée **"La Ville des Ponts Suspendus"**, offre des vues qui captivent l'âme. Les gorges profondes du Rhummel, traversées par des ponts romains élégants, créent une toile naturelle qui inspire l'émerveillement. En explorant les sentiers verdoyants, nous avons découvert les cascades d'Ain El Hammam, des joyaux cachés dans un écrin de nature. Constantine, avec ses ponts suspendus élégants et ses ruelles pavées, parle beaucoup de son histoire, offrant une beauté architecturale saisissante. Les détails ciselés des façades et les balcons en fer forgé révèlent une symphonie visuelle où chaque coin de rue montre l'ingéniosité des bâtisseurs aux visiteurs, faisant de Constantine un bijou architectural.
 
-![Pont Constantine](https://images.app.goo.gl/UM2usA29n4jENxqm6)
-
 ### Sa Culture : Diversifiée et Riche
 
 Constantine est également très connue pour la diversité de sa culture unique. Sur les marchés animés, ce qui attend les touristes ce sont les délices de la cuisine locale, un mélange savoureux d'influences berbères, arabes et françaises, et les festivals locaux qui résonneront de musique et de danse, transcendant les frontières. Les ruelles animées de Constantine résonnent de l'artisanat traditionnel, où chaque coin dévoile des trésors façonnés avec soin, perpétuant un héritage artistique immémorial.

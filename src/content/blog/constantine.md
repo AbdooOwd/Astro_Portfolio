@@ -51,4 +51,9 @@ Constantine, avec sa beauté palpable et son histoire fascinante, nous a invité
 
 #### Ce projet est en construction !
 
-> Réalisé par : *Meqla, Madas, Kerkouma, Abboudi, Babicha*
+> Réalisé par :
+> - Benari
+> - Defrour
+> - Meddas
+> - Guettouche
+> - Abdi 

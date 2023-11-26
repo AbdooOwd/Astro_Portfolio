@@ -45,7 +45,7 @@ Constantine est une ville importante dans l'histoire méditerranéenne. Originai
 
 Bienvenue à Constantine, un joyau niché au cœur de l'Algérie, où l'histoire et la beauté naturelle fusionnent pour créer une expérience inoubliable. Nous allons vous faire éxplorer cet endroit riche en tout point.
 
-## L'Héritage de **Notre** Passé
+## L'Histoire de Constantine : L'Héritage de Notre Passé
 
 Constantine, témoin de siècles d'histoire, s'ouvre à **nous** comme un livre vivant. Fondée à l'époque romaine, elle a traversé les âges, passant entre les mains des Byzantins, des Arabes, des Ottomans et des Français. Parcourant la vieille ville, **nous** avons ressenti l'empreinte indélébile du passé.
 

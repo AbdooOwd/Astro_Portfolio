@@ -43,7 +43,7 @@ Constantine est une ville importante dans l'histoire méditerranéenne. Originai
 
 # Découvrir Constantine : Un Trésor Méditerranéen
 
-Bienvenue à Constantine, un joyau niché au cœur de l'Algérie, où l'histoire et la beauté naturelle fusionnent pour créer une expérience inoubliable. **Nous**, explorateurs passionnés, avons été enchantés par cette ville aux gorges vertigineuses et à l'âme ancienne.
+Bienvenue à Constantine, un joyau niché au cœur de l'Algérie, où l'histoire et la beauté naturelle fusionnent pour créer une expérience inoubliable. Nous allons vous faire éxplorer cet endroit riche en tout point.
 
 ## L'Héritage de **Notre** Passé
 

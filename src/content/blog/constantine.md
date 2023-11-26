@@ -3,7 +3,7 @@ title: 'Constantine, Algérie'
 description: "Un article pour vous donner envie d'aller à Constantine"
 pubDate: 'Oct 08, 2023'
 tags: ["blogging"]
-heroImage: '/imgs/blog-placeholder-1.jpg'
+heroImage: '/imgs/images-5.jpeg'
 url: 'constantine'
 ---
 

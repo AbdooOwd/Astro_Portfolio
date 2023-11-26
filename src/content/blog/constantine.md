@@ -35,7 +35,7 @@ Parcourant la vieille ville, vous ressentirez ces époques en admirant sa beaut�
 
 Suspendue entre ciel et terre, Constantine, aussi appelée **"La Ville des Ponts Suspendus"**, offre des vues qui captivent l'âme. Les gorges profondes du Rhummel, traversées par des ponts romains élégants, créent une toile naturelle qui inspire l'émerveillement. En explorant les sentiers verdoyants, nous avons découvert les cascades d'Ain El Hammam, des joyaux cachés dans un écrin de nature. Constantine, avec ses ponts suspendus élégants et ses ruelles pavées, parle beaucoup de son histoire, offrant une beauté architecturale saisissante. Les détails ciselés des façades et les balcons en fer forgé révèlent une symphonie visuelle où chaque coin de rue montre l'ingéniosité des bâtisseurs aux visiteurs, faisant de Constantine un bijou architectural.
 
-![Pont Constantine](https://www.elmoudjahid.com/storage/images/article/dcfcdc5239223d5cf201022797536d8c.jpg)
+![Pont Constantine](https://images.app.goo.gl/UM2usA29n4jENxqm6)
 
 ### Sa Culture : Diversifiée et Riche
 

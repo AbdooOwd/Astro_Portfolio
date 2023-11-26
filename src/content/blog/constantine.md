@@ -12,12 +12,12 @@ url: 'constantine'
 L'Algérie regorge de régions parfaites pour le tourisme, mais l'une des plus réputées d'entre elles est 
 **Constantine**. Cette région de l'Est algérien est connue à travers le monde pour sa culture, son histoire riche, et sa beauté naturelle et architecturale.
 
-#### Localisation et Population
+### Localisation et Population
 
 Constantine est située dans l'Est de l'Algérie, offrant un accès privilégié à la Méditerranée. 
 Avec une population dynamique de [nombre d'habitants], la ville vibre au rythme de ses habitants accueillants.
 
-## Découvrir Constantine : Un Trésor Méditerranéen
+### Découvrir Constantine : Un Trésor Méditerranéen
 
 Bienvenue à Constantine, un joyau niché au cœur de l'Algérie, où l'histoire et la beauté 
 naturelle fusionnent pour créer une expérience inoubliable. Nous allons vous faire explorer cet endroit riche en tout point.

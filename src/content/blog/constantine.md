@@ -9,6 +9,8 @@ url: 'constantine'
 
 ### Découvrir Constantine : un Bijou Algérien
 
+[Constantine](/imgs/Csantina.jpg)
+
 L'Algérie regorge de régions parfaites pour le tourisme, mais l'une des plus réputées d'entre elles est 
 **Constantine**. Ce joyau de l'Est algérien est connue à travers le monde pour la fusion de sa culture, son histoire riche 
 et sa beauté naturelle et architecturale fait beaucoup parler de la région.
@@ -39,12 +41,14 @@ faisant de Constantine un bijou architectural.
 
 ### Sa Culture : Diversifiée et Riche
 
-Constantine est également très connue pour la diversité de sa culture unique. Sur les marchés animés, 
-ce qui attend les touristes ce sont les délices de la cuisine locale, un mélange savoureux d'influences berbères, 
+Constantine est également très connue pour la diversité de sa culture unique, qui est constituée d'habits et tenues comme **"Kaftan et Djellaba"**, 
+nourritures comme la **"Chakhchoukha"**, et traditions qui sont à leur tour composée de féstivals et de fêtes, de danse et de musique. 
+Sur les marchés animés, ce qui attend les touristes ce sont les délices de la cuisine locale, un mélange savoureux d'influences berbères, 
 arabes et françaises, et les festivals locaux qui résonneront de musique et de danse, transcendant les frontières. 
 Les ruelles de Constantine résonnent de l'artisanat traditionnel grâce à ses magasins et marchés très bien fourni, 
-où chaque coin de rue dévoile des trésors façonnés avec soin, 
-perpétuant un héritage artistique immémorial.
+où chaque coin de rue dévoile des trésors façonnés avec soin, perpétuant un héritage artistique immémorial. 
+Ses habitants vivent avec la culture de Constantine dans leur sang, ce qui prouve ça sont les langues comme l'Arabe et le Berbère, 
+et les dialectes locaux et des expressions uniques. 
 
 ## En d'Autre Termes ?
 
@@ -69,6 +73,8 @@ Donc, Constantine est une fusion magique. Histoire, architecture, nature – un 
 Constantine, avec sa beauté palpable et son histoire fascinante, vous invite à un voyage où le passé danse avec le présent. Préparez-vous à être éblouis par cette destination méditerranéenne pleine de charme et d'authenticité.
 
 *Note : Assurez-vous de vérifier les conditions de voyage actuelles et de respecter les règles locales lors de la planification de votre visite à Constantine.*
+
+--- 
 
 > Réalisé par :
 > - Classe 4AM4

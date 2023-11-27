@@ -71,8 +71,9 @@ Constantine, avec sa beauté palpable et son histoire fascinante, vous invite à
 *Note : Assurez-vous de vérifier les conditions de voyage actuelles et de respecter les règles locales lors de la planification de votre visite à Constantine.*
 
 > Réalisé par :
-> - Benari Ab.
-> - Defrour Ak.
-> - Meddas Ab.
-> - Guettouche Yo.
-> - Abdi Ch. Gh.
+> - Classe 4AM4
+>   - Benari Ab.
+>   - Defrour Ak.
+>   - Meddas Ab.
+>   - Guettouche Yo.
+>   - Abdi Ch. Gh.

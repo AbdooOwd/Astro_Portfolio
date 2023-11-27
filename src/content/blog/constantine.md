@@ -70,8 +70,6 @@ Constantine, avec sa beauté palpable et son histoire fascinante, vous invite à
 
 *Note : Assurez-vous de vérifier les conditions de voyage actuelles et de respecter les règles locales lors de la planification de votre visite à Constantine.*
 
-#### Ce projet est en construction !
-
 > Réalisé par :
 > - Benari
 > - Defrour

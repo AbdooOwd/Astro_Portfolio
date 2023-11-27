@@ -9,7 +9,7 @@ url: 'constantine'
 
 ### Découvrir Constantine : un Bijou Algérien
 
-[Constantine](/imgs/Csantina.jpg)
+![Constantine](/imgs/Csantina.jpg "Pont de BabaBoey")
 
 L'Algérie regorge de régions parfaites pour le tourisme, mais l'une des plus réputées d'entre elles est 
 **Constantine**. Ce joyau de l'Est algérien est connue à travers le monde pour la fusion de sa culture, son histoire riche 

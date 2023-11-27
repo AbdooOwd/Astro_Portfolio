@@ -22,6 +22,8 @@ Avec une population qui compte plus de 460 000 habitants, la ville est bien conn
 
 ### L'Histoire de Constantine : Un Voyage à Travers les Siècles
 
+![Constantine](/imgs/constantine-quartier-juif-1.jpg "nkerho israel")
+
 Constantine, témoin de siècles d'histoire, s'ouvre à nous comme un livre vivant. Fondée à 
 l'époque romaine, au cours du 6ème siècle avant J.C. par les Phéniciens, elle a traversé les âges, passant entre les mains des Byzantins, 
 des Arabes, des Ottomans et des Français. Le nom de la ville, Constantine, tire son origine du nom de l'empreur **Constantin 1er**.
@@ -31,6 +33,8 @@ Parcourant la vieille ville, vous ressentirez ces époques en admirant sa beaut�
 Les ruelles pavées racontent des récits d'aventures et de conquêtes, créant une toile vivante d'événements passés.
 
 ### Sa beauté : Les Trésors Naturels et Architecturaux qui Nous Émerveillent
+
+![Constantine](/imgs/nature.jpg "Le OUI")
 
 Suspendue entre ciel et terre, Constantine, aussi appelée **"La Ville des Ponts Suspendus"**, offre des vues qui captivent l'âme. 
 Les gorges profondes du Rhummel, traversées par des ponts romains élégants, créent une toile naturelle qui inspire l'émerveillement. 
@@ -83,3 +87,4 @@ Constantine, avec sa beauté palpable et son histoire fascinante, vous invite à
 >   - Meddas Ab.
 >   - Guettouche Yo.
 >   - Abdi Ch. Gh.
+>   ![Constantine](/imgs/papicha.png "Papicha")

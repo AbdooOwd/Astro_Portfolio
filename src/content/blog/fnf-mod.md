@@ -1,5 +1,5 @@
 ---
-title: 'Coding my Friday Night Funkin\' Mod'
+title: 'Coding my Friday Night Funkin Mod'
 description: 'The process of me making an FNF mod'
 pubDate: 'Jan 1 2024'
 updatedDate: 'Jan 1 2024'
